@@ -1,0 +1,8 @@
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.83:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.169.128:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.139.37:443#%F0%9F%92%BB%20Channel%20%F0%9F%86%94%20:%20@AlienVPN402%20%F0%9F%91%BD
+
+vless://VPNCUSTOMIZE@5.75.211.107:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=SR1l2DnRYsaHjArnoxRapnZ8CIzxDF8dYRyzGIRz1DQ&amp;fp=firefox&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=www.speedtest.net&amp;sid=74110c08#%40V2ray_one1
+
