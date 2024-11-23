@@ -2,7 +2,7 @@ name: crawl
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */24 * * *'
 jobs:
   crawltel:
     runs-on: ubuntu-latest
